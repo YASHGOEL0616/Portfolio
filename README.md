@@ -1,13 +1,13 @@
-#BharatIntern_task1_Portfolio
+# BharatIntern_task1_Portfolio
 
 ![screenshot](https://github.com/YASHGOEL0616/Portfolio/blob/48447a2193b5816d914c5ad0644582c85eb2e2dc/portfolio%20ss.jpg)
 
-##PORTFOLIO
+## PORTFOLIO
 >This project is simply developed using HTML, CSS, and JavaScript. Talking about the project content, this project is about portfolio website.
 
-##[LIVE PREVIEW](https://yashgoel0616.github.io/Portfolio/)
+## [LIVE PREVIEW](https://yashgoel0616.github.io/Portfolio/)
 
-##FEATURES
+## FEATURES
 >Creating a portfolio website using HTML, CSS, and JavaScript allows you to showcase your work, skills, and personal information in a visually appealing and interactive way. Here are some essential features and components in our portfolio:
 
 >1. **Header Section:**
